@@ -1203,3 +1203,7 @@ CREATE TABLE user_game_stats (
 GET    /api/v1/analytics/financial/roi
 GET    /api/v1/analytics/financial/profit-loss
 GET    /api/v1/analytics/livestock/performance
+
+
+------------------------------------------------------------------
+https://www.amigok.cloud
